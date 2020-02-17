@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "prettier": "prettier --write './src/**/*.ts'"
+  },
   "devDependencies": {
     "prettier": "1.19.1",
     "typescript": "^3.7.5"
