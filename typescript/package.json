@@ -8,7 +8,7 @@
     "prettier": "prettier --write './src/**/*.ts'"
   },
   "devDependencies": {
-    "prettier": "1.19.1",
+    "prettier": "2.2.1",
     "typescript": "^4.1.3"
   }
 }
